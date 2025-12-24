@@ -1,0 +1,52 @@
+This project analyzes sales lead data to understand overall business
+performance, sales effectiveness, and revenue contribution. The main
+goal of this analysis is to identify areas where sales can be improved
+and to highlight important business trends using a Power BI dashboard.
+
+INSIGHTS
+
+1. A large number of leads in the dataset are marked as "Dead".
+   This shows that many potential customers are not converting into
+   actual sales. It indicates the need for better follow-up, improved
+   communication, and stronger lead management strategies.
+
+2. The analysis shows that only a few clients contribute a major
+   portion of the total estimated revenue. This means the business is
+   highly dependent on high-value clients, and maintaining strong
+   relationships with these clients is very important.
+
+3. Sales performance is not evenly distributed among salespersons.
+   A small number of salespersons are handling the highest revenue
+   clients, while others contribute less. This insight can help
+   management in training, performance review, and workload balancing.
+
+4. The Pharma category has the highest number of leads compared to
+   other business categories. This indicates that Pharma is the core
+   business segment and should remain a key focus area for sales and
+   marketing efforts.
+
+5. Many leads remain stuck in early sales stages such as calling or
+   discussion. This shows that the sales cycle is slow for some leads
+   and there is an opportunity to improve lead qualification and
+   faster decision-making.
+
+ASSUMPTIONS
+
+1. Each Inquiry No in the dataset is considered as a unique lead.
+
+2. The estimated revenue values provided in the data are assumed to
+   be accurate and consistently recorded.
+
+3. Leads with the status "Won" are considered successful sales
+   conversions.
+
+4. Missing or blank values were cleaned, replaced, or ignored during
+   the data preparation process.
+
+5. The dataset represents sales activity for a specific time period,
+   and future results may vary based on market conditions and strategy
+   changes.
+
+Overall, this dashboard helps management quickly understand sales
+performance, identify problem areas, and take data-driven decisions to
+improve revenue and conversion rates.
